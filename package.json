@@ -1,6 +1,10 @@
 {
   "name": "grocer-e-table",
-  "version": "0.1.0",
+  "description": "send mail",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.16.3"
+  }, 
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
